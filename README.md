@@ -1,7 +1,7 @@
 # Topping-Tumble-Unfinished
 A basic (unfinished) puzzle game made in monogame!
 
-To run this project, install Microsoft Visual Studio with the Monogame Framework extension (DM me or Google if you need help)
+To run this project, install Microsoft Visual Studio with the Monogame Framework extension (DM me or Google if you need help), and run ToppingTumble.sln
 
 The goal is simple: Use your shop items to make a path to guide your ingredients to the oven!
 
